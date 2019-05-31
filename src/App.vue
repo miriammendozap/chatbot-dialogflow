@@ -170,9 +170,9 @@
 </main>
 </template>
 
-<style lang="sass">
-@import url('https://fonts.googleapis.com/css?family=Roboto')
-@import "App.sass"
+<style lang="scss">
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+@import "App.scss";
 </style>
 
 <script>
